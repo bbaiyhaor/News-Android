@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">白云仁</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- list 到了最底部 没有新数据了-->
+    <string name="list_more_data">更新了0条数据~</string>
+
+
+
+    <string name="refresh">刷新</string>
+    <string name="copy_link">复制链接</string>
+    <string name="open_with">浏览器打开</string>
+    <string name="share_via">分享</string>
+
+
+</resources>
